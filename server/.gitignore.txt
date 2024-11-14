@@ -1,0 +1,19 @@
+# Ignore all .log files
+*.log
+
+# Ignore all files in the build directory
+build/
+
+# Ignore node_modules folder for a Node.js project
+node_modules/
+
+# Ignore IDE files (e.g., from IntelliJ IDEA or Visual Studio Code)
+.idea/
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore specific files
+secret_config.json
